@@ -1,4 +1,6 @@
 ![download](https://github.com/user-attachments/assets/09fde7e6-0104-4db8-a75c-87d946e9875e)
+
+
 In this project we will be first making our redictions using Machine Learning Techniques then we will be using Auto ML Technique to do the same. We will be using PyCaret .The dataset contains transactions made by credit cards in September 2013 by European cardholders.
 
 This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
